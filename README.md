@@ -1,14 +1,8 @@
-# NLP-Project
-
-The title of the project is Sentiment Analysis of Tweets in Hindi
-
 Introduction - In this work, we focus on mining sentiments and analyzing them for Hindi language. Hindi is the 4th commonly spoken language in the world. With the increase in the amount of information being communicated via regional languages like Hindi, comes a promising opportunity of mining this information. Mining sentiments in Hindi comes with their share of issues and challenges.
 
 Motivation - In the rural areas, where population is more, people usually speak in their mother tongue which is Hindi. Some of the biggest news channels of India use Hindi as their primary language. In order to know whether a particular rural section of the society is having a positive, neutral or a negative mindset towards a particular topic can be tough. Hence, we are doing Sentiment Analysis in Hindi to find out if there's a sense of support or not behind that particular agenda without having to do it manually.
 
-We have considered a dataset that contains approximately 10,000 tweets in Hindi and whether that tweet was positive, neutral or negative
-
-Link: https://github.com/sid573/Hindi_Sentiment_Analysis/blob/master/hi_3500.ods
+We have considered a dataset that contains approximately 10,000 tweets in Hindi and whether that tweet was positive, neutral or negative. You can find the dataset [here](https://github.com/sid573/Hindi_Sentiment_Analysis/blob/master/hi_3500.ods)
 
 We are following 2 types of models here. First one is a basic and simple one while the 2nd one is more advanced.
 
